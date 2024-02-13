@@ -1,7 +1,7 @@
-import Country from './Country/country.js'
-import Continent from './Continents/continent.js'
-import World from './World/world.js'
-import Sun from './Sun/sun.js'
+import Country from './country.js'
+import Continent from './continent.js'
+import World from './world.js'
+import Sun from './sun.js'
 
 let sun = new Sun()
 

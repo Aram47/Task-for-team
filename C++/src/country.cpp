@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iostream>
-#include "country.hpp"
-#include "../Human/human.hpp"
+#include "../header/country.hpp"
+#include "../header/human.hpp"
 
 Country::Country()
 {

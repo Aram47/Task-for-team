@@ -1,6 +1,6 @@
 #include <fstream>
-#include "lifecycle.hpp"
-#include "../Earth/earth.hpp"
+#include "../header/lifecycle.hpp"
+#include "../header/earth.hpp"
 
 Lifecycle::Lifecycle() 
     : m_sun(new Sun())

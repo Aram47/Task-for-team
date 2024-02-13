@@ -8,7 +8,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include "../Earth/earth.hpp"
+#include "earth.hpp"
 
 class Lifecycle
 {

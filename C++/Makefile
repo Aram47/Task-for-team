@@ -1,5 +1,5 @@
 G++ = g++
-FILES = main.cpp Continent/continent.cpp Country/country.cpp Earth/earth.cpp Human/human.cpp LifeCycle/lifecycle.cpp Sun/sun.cpp
+FILES = ./src/*.cpp
 EXE = Life 
 DEL = rm
 TXT = LifeCycleResult.txt

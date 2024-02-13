@@ -1,5 +1,5 @@
 #include <iostream>
-#include "continent.hpp"
+#include "../header/continent.hpp"
 
 Continent::Continent() 
     : m_countries(new Country[m_countriesCount])

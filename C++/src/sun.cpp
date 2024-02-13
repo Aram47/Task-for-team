@@ -1,5 +1,5 @@
 #include <iostream>
-#include "sun.hpp"
+#include "../header/sun.hpp"
 
 Sun::Sun()
 {

@@ -5,7 +5,7 @@
 #ifndef COUNTRY_HPP
 #define COUNTRY_HPP
 
-#include "../Human/human.hpp"
+#include "human.hpp"
 
 class Country
 {

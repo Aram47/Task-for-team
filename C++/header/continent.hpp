@@ -5,7 +5,7 @@
 #ifndef CONTINENT_HPP
 #define CONTINENT_HPP
 
-#include "../Country/country.hpp"
+#include "country.hpp"
 
 class Continent
 {

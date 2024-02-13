@@ -5,8 +5,8 @@
 #ifndef EARTH_HPP
 #define EARTH_HPP
 
-#include "../Continent/continent.hpp"
-#include "../Sun/sun.hpp"
+#include "continent.hpp"
+#include "sun.hpp"
 
 class Earth
 {

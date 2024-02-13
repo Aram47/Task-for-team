@@ -1,5 +1,5 @@
 #include <iostream>
-#include "earth.hpp"
+#include "../header/earth.hpp"
 
 Earth::Earth()
     : m_continents { new Continent[m_continentsCount] }
